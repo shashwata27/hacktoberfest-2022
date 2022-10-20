@@ -1,6 +1,6 @@
 <h1>HACKTOBER FEST 2022</h1>
 <hr>
-<p>Contribute your pyhton programs over here!</p>
+<p>Contribute your python programs over here!</p>
 <p>Hacktoberfest, in its 9th year, is a month-long celebration of open source software run by DigitalOcean.</p>
 
 <h3>TREES NOT TEES</h3>
